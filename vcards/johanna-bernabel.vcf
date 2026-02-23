@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bernabel;Johanna;;;
+FN:Johanna Bernabel
+ORG:Kairos MS
+TITLE:CEO
+TEL;TYPE=CELL:+1 561 317 9946
+EMAIL;TYPE=INTERNET:jbernabel@kairosms.com
+URL:https://kairosms.com
+ADR;TYPE=WORK:;;3939 Tollhouse Drive #101;Naples;FL;34114;USA
+END:VCARD
